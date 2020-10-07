@@ -20,7 +20,7 @@ public class Lista1Exercicio8 {
 		carroNovo = ((custoFabrica*28)/100) + ((custoFabrica*45)/100) + custoFabrica;
 		System.out.print("O preço total a ser pago pelo carro novo é de" + carroNovo);
 		
-		
+		leia.close();
 		
 	}
 

@@ -39,7 +39,7 @@ public class Lista1Exercicio3 {
 			System.out.print("\ntotal de segundos "+ segundos);
 		
 		
-		
+			leia.close();
 		
 		
 		

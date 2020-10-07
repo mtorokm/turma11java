@@ -46,7 +46,7 @@ public class Lista1Exercicio4 {
 			  
 			System.out.println(D);
 	
-	
+			leia.close();
 	
 	
 	

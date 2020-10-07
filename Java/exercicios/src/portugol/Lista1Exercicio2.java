@@ -48,7 +48,7 @@ public class Lista1Exercicio2 {
 		
 		
 		
-		
+				leia.close();
 		
 	}
 
