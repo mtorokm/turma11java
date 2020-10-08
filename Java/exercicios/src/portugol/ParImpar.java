@@ -68,7 +68,7 @@ public class ParImpar {
 		else {
 			System.out.println("Você digitou 0");
 	
-	
+			leia.close();
 		}
 	}
 

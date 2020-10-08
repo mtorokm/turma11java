@@ -33,7 +33,7 @@ public class Lista6Exercicio4 {
 			
 		}
 	
-	
+		leia.close();
 	}
 
 }
