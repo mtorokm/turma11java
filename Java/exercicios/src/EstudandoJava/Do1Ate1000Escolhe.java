@@ -2,7 +2,7 @@ package EstudandoJava;
 
 import java.util.Scanner;
 
-public class Do1Ate1000UsuarioEscolhe {
+public class Do1Ate1000Escolhe {
 
 	public static void main(String[] args) {
 		Scanner leia = new Scanner(System.in);

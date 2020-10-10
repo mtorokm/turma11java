@@ -23,7 +23,7 @@ public class Lista7Exercicio4 {
 			
 			//declarar as variaveis
 			int idade;
-			final int LIMITE = 150; // O LIMITE DE PESSOAS É 150
+			final int LIMITE = 1; // O LIMITE DE PESSOAS É 150
 			byte sexo; // (1-feminino / 2-masculino / 3-Outros)
 			byte tipoHumor; //(1, se a pessoa era calma; 2, se a pessoa era nervosa e 3, se a pessoa era agressiva)
 			int totalF, totalM=0, totalO=0, pessoasCalmas=0, mulheresNervosas=0, homensAgressivos=0, outrosCalmos=0, nervosas40=0, calmasMenor18=0;
@@ -47,11 +47,10 @@ public class Lista7Exercicio4 {
 				{
 					mulheresNervosas = mulheresNervosas +1;
 				}
-				// fuga do loop / laco
-				contador++;
+				
 				if ((tipoHumor == 3 ) && (sexo==2))
 				{
-					totalM++;
+					totalM++; 
 				}
 			
 				if((tipoHumor==1)&&(sexo==3))
@@ -68,7 +67,10 @@ public class Lista7Exercicio4 {
 				{
 					calmasMenor18++;
 					
+
 				}
+				// fuga do loop / laco
+				contador++;
 			}
 			System.out.printf("\nTOTAL DE PESSOAS CALMAS : %d", pessoasCalmas);
 			
