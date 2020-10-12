@@ -1,6 +1,6 @@
-package EstudandoJava;
+package javaLista3;
 
-public class Lista8Exercicio1 {
+public class javaLista3Exercicio1 {
 
 	public static void main(String[] args) {
 		/*1- Faça um programa que possua um vetor denominado A que armazene 6 números inteiros. O programa deve executar os seguintes passos: 

@@ -1,8 +1,8 @@
-package EstudandoJava;
+package javaLista2;
 
 import java.util.Scanner;
 
-public class Lista7exercicio6 {
+public class javaLista2Exercicio6 {
 
 	public static void main(String[] args) {
 		/*  Escrever um programa que receba vários números inteiros no teclado.

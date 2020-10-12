@@ -1,8 +1,8 @@
-package EstudandoJava;
+package javaLista3;
 
 import java.util.Scanner;
 
-public class Lista8Exercicio3 {
+public class javaLista3Exercicio3 {
 
 	public static void main(String[] args) {
 		/*3- Leia uma matriz 3 x 3, conte e escreva quantos valores maiores que 10 ela possui

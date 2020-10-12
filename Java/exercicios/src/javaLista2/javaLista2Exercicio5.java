@@ -1,8 +1,8 @@
-package EstudandoJava;
+package javaLista2;
 
 import java.util.Scanner;
 
-public class Lista7Exercicio5 {
+public class javaLista2Exercicio5 {
 
 	public static void main(String[] args) {
 		/*Crie um programa que leia um número do teclado 

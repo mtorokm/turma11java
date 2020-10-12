@@ -1,8 +1,8 @@
-package EstudandoJava;
+package javaLista2;
 
 import java.util.Scanner;
 
-public class Lista7Exercicio4 {
+public class javaLista2Exercicio4 {
 
 	public static void main(String[] args) {
 			/*

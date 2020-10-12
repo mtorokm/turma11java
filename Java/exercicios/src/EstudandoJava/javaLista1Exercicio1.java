@@ -2,7 +2,7 @@ package EstudandoJava;
 
 import java.util.Scanner;
 
-public class Lista6Exercicio1 {
+public class javaLista1Exercicio1 {
 
 	public static void main(String[] args) {
 		/*Faça um programa que receba tres inteiros e

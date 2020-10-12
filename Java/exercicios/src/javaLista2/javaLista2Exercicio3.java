@@ -1,8 +1,8 @@
-package EstudandoJava;
+package javaLista2;
 
 import java.util.Scanner;
 
-public class Lista7Exercicio3 {
+public class javaLista2Exercicio3 {
 
 	public static void main(String[] args) {
 		/*Solicitar a idade de várias pessoas e imprimir: 

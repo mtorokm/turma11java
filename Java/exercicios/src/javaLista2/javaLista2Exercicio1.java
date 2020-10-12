@@ -1,6 +1,6 @@
-package EstudandoJava;
+package javaLista2;
 
-public class Lista7Exercicio1 {
+public class javaLista2Exercicio1 {
 
 	public static void main(String[] args) {
 		/*Informar todos os números de 1000 a 1999
