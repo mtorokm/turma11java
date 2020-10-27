@@ -1,0 +1,1 @@
+update tb_funcionarios set nome = "Jõao", sexo = 'O' where id = 2;
