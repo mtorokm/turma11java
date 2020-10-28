@@ -1,0 +1,1 @@
+select * from tb_produto where tb_produto.nome_curso like "%jav%";

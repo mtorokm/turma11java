@@ -1,0 +1,1 @@
+select * from tb_produto where tb_produto.preco_curso >= 3 and tb_produto.preco_curso <= 60;
