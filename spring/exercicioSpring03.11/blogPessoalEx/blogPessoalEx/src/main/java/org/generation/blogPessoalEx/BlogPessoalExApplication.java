@@ -1,0 +1,13 @@
+package org.generation.blogPessoalEx;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BlogPessoalExApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(BlogPessoalExApplication.class, args);
+	}
+
+}
